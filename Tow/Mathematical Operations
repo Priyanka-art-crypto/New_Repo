@@ -1,18 +1,4 @@
-package CC150.MathematicsAndProbability;
 
-/**
- * Problem: Write method to implement the multiply, subtract and divide operation for integers. 
- * Use only the odd operator. 
- * 
- * Solution: 
- * subtract -- add a negate number
- * multiply -- add add add...
- * divide -- subtract subtract.
- * 
- * TestCase: negative number -- must take care negative situation doing this kind of problems.
- * @author jeffwan
- * @date Feb 26, 2014
- */
 public class Operation {
 
 	/** subtract **/
