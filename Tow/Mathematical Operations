@@ -13,6 +13,10 @@ public class Operation {
 			x += temp;
 			result += temp;
 		}
+		int a = 10;
+		int b = 20;
+		int c = a+b;
+		printf(c=%d,&c)
 		return result;
 	}
 	
